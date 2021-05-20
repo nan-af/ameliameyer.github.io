@@ -1,0 +1,22 @@
+# Setup
+title:               Amelia Meyer
+tagline:             'UCSB Student'
+description:         'Statistics and Data Science Major, German Minor'
+url:                 'http://localhost:4000' #'http://ameliameyer.github.io'
+baseurl:             '/ameliameyer.github.io'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Amelia Meyer
+  url:               https://www.linkedin.com/in/amelia-meyer-387987174/
+  email:             ameliameyer@ucsb.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
